@@ -11,7 +11,7 @@ cd  nft-club-next
 npm run dev
 ```
 
-The project uses **[Chakra ui kit](https://chakra-ui.com/)** with its **[Next.js](https://nextjs.org/)** compatibility. The backend was done in `Sepolia§ test network. if you don't have it configured in your wallet you will get an error. The front-end connects with the network via **[ethers.js](https://docs.ethers.org/v5/)**.
+The project uses **[Chakra ui kit](https://chakra-ui.com/)** with its **[Next.js](https://nextjs.org/)** compatibility. The backend was done in `Sepolia test network, if you don't have it configured in your wallet you will get an error. The front-end connects with the network via **[ethers.js](https://docs.ethers.org/v5/)**.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Usage
 
-In **localhost:3000/admin** you will see a form that lets the admin of the smart contract which is the account `0x006510FA9a9b5b0566209347200d3300081342f3` otherwise you will get an error
+In **localhost:3000/admin** you will see a form that lets the admin of the smart contract to make collections. The admin is the public account `0x006510FA9a9b5b0566209347200d3300081342f3` otherwise you will get an error.
 
 <p align="center"><img src= "images/home7.png" ></p>
 
